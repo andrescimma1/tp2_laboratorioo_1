@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1555705725 source:c:\users\andy\desktop\cimma\tp2_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployes.h"
+
+1555703088 source:c:\users\andy\desktop\cimma\tp2_laboratorio_1\tp2\arrayemployes.c
+
+1555703105 c:\users\andy\desktop\cimma\tp2_laboratorio_1\tp2\arrayemployes.h
+
+1559173684 source:c:\users\andy\desktop\tp2 laboratorioo\tp2_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployes.h"
+
+1559173907 c:\users\andy\desktop\tp2 laboratorioo\tp2_laboratorio_1\tp2\arrayemployes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1559174189 source:c:\users\andy\desktop\tp2 laboratorioo\tp2_laboratorio_1\tp2\arrayemployes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1589479252 source:c:\users\user\desktop\cimmatp2terminado\tp2_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployes.h"
+
+1589479252 c:\users\user\desktop\cimmatp2terminado\tp2_laboratorio_1\tp2\arrayemployes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
